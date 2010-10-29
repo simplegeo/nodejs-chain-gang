@@ -1,0 +1,13 @@
+Source: nodejs-chain-gang
+Section: misc
+Priority: extra
+Uploaders: Seth Fitzsimmons <seth@simplegeo.com>
+Maintainer: SimpleGeo Nerds <nerds@simplegeo.com>
+build-Depends: cdbs, debhelper (>= 7)
+Standards-Version: 3.9.1
+
+Package: nodejs-chain-gang
+Depends: nodejs (>= 0.2.3), ${misc:Depends}
+Architecture: all
+Description: node-chain-gang
+ http://github.com/simplegeo/node-chain-gang
