@@ -1,7 +1,7 @@
 This package was debianized by Seth Fitzsimmons <seth@simplegeo.com>
 
 The upstream repo is:
-    http://github.com/simplegeo/node-chain-gang
+    https://github.com/technoweenie/node-chain-gang
     MIT license
 
 The Debian packaging is
