@@ -10,4 +10,4 @@ Package: nodejs-chain-gang
 Depends: nodejs (>= 0.2.3), ${misc:Depends}
 Architecture: all
 Description: node-chain-gang
- http://github.com/simplegeo/node-chain-gang
+ https://github.com/technoweenie/node-chain-gang
